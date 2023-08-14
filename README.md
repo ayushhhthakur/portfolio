@@ -2,12 +2,6 @@
 
 Welcome to my personal portfolio website repository! This repository contains all the code and resources for my personal portfolio website, showcasing my projects, skills, and experiences. Feel free to explore the repository and learn more about me and my work.
 
-## Table of Contents
-
-- [About Me](#about)
-- [Projects](#projects)
-- [Contact](#contact)
-
 ## About Me
 
 I am Ayush, a passionate and creative web developer.
@@ -16,10 +10,10 @@ I am Ayush, a passionate and creative web developer.
 
 My portfolio demonstrates proficiency in various skills and technologies, including:
 
-- Skill 1
-- Skill 2
-- Skill 3
-- ...
+- React
+- JavaScript
+- C/C++
+- MySQL
 
 I am constantly expanding and refining my skill set to tackle new challenges and create innovative solutions.
 
