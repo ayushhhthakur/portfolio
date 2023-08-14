@@ -43,7 +43,7 @@ Check out my portfolio [Here](https://ayush-thakur.netlify.app/)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as long as you provide appropriate attribution and include a copy of the license in your distribution.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as long as you provide appropriate attribution and include a copy of the license in your distribution.
 
 ---
 
