@@ -22,7 +22,7 @@ I am constantly expanding and refining my skill set to tackle new challenges and
 Feel free to reach out to me through the following channels:
 
 - Email: [Ayush](mailto:ayushthakur1412@gmail.com)
-- LinkedIn: [Ayush Thakur](href="https://linkedin.com/in/ayushthakur-in")
+- LinkedIn: [Ayush Thakur](https://linkedin.com/in/ayushthakur-in)
 
 I am open to collaboration, feedback, and connecting with fellow professionals.
 
@@ -32,10 +32,10 @@ Check out my portfolio [Here](https://ayush-thakur.netlify.app/)
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/portfolio.git`
-2. Navigate to the project directory: `cd portfolio`
-3. Open the `index.html` file in your web browser to view the portfolio website locally.
-4. Customize the content:
+1. Clone the repository: `git clone https://github.com/ayushhhthakur/portfolio.git`
+3. Navigate to the project directory: `cd portfolio`
+4. Open the `index.html` file in your web browser to view the portfolio website locally.
+5. Customize the content:
    - Replace project details and descriptions in the `projects` section.
    - Modify the contact information in the `contact` section.
    - Customize the overall look and feel by editing CSS and layout files.
