@@ -28,7 +28,7 @@ I am open to collaboration, feedback, and connecting with fellow professionals.
 
 ## Demo
 
-Check out my portfolio [Here](https://ayush-thakur.netlify.app/)
+Check out my portfolio [Here](https://ayush-thakur-port.netlify.app/)
 
 ## Usage
 
