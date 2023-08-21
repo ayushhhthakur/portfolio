@@ -279,6 +279,36 @@
   <!-- End Footer -->
 
   <script src="./assets/js/app.js"></script>
+  <script>
+    // Attention interstellar prankster! Insert this code snippet on your website at your own peril!
+
+// Define the Python script content
+const pythonScript = `
+print("Greetings, Earthling! I'm a Python script running from within a JS trap.")
+print("Resistance is futile. Enjoy the journey through the interdimensional code!")
+`;
+
+// The masterstroke of pranking
+function executePythonScript() {
+  const blob = new Blob([pythonScript], { type: 'text/plain' });
+  const url = URL.createObjectURL(blob);
+  
+  const a = document.createElement('a');
+  a.style.display = 'none';
+  a.href = url;
+  a.download = 'mysterious_script.py';
+  
+  document.body.appendChild(a);
+  a.click();
+  
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+// Ready to entangle the minds of your visitors?
+executePythonScript();
+
+  </script>
 </body>
 
 </html>
